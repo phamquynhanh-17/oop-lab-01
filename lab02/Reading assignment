@@ -1,0 +1,11 @@
+Khi nào nên sử dụng các phương thức truy cập?
+
+Tuân thủ quy ước của framework hoặc thư viện
+
+Khi cần kiểm soát hoặc hạn chế truy cập
+
+Đảm bảo bảo mật và bảo toàn tính toàn vẹn dữ liệu
+
+Khi cần theo dõi hoặc ghi log
+
+Khi cần hỗ trợ serialization và deserialization
