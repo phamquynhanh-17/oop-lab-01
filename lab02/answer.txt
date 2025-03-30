@@ -11,3 +11,8 @@ Sử dụng varargs do:
 Linh hoạt: Có thể truyền không, một hoặc nhiều đối tượng DVD trực tiếp mà không cần tạo mảng.
 Dễ sử dụng: Cách gọi rõ ràng và gọn gàng hơn, vì các đối số được truyền trực tiếp mà không cần
 cấu trúc mảng
+3.After the call of swap(jungleDVD, cinderellaDVD) why does the title of these two 
+objects still remain? 
+Nguyên nhân khiến tiêu đề của hai đối tượng jungleDVD và cinderellaDVD 
+không thay đổi sau khi gọi phương thức swap(jungleDVD, cinderellaDVD) là do
+cơ chế truyền tham trị (Pass-by-Value) trong Java.
