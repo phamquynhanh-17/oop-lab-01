@@ -1,0 +1,13 @@
+1.If you create a constructor method to build a DVD by title then create a constructor method 
+to build a DVD by category. Does JAVA allow you to do this?
+Có, Java hoàn toàn cho phép thực hiện việc này thông qua method overloading 
+(nạp chồng phương thức). Khi sử dụng method overloading, bạn có thể có nhiều phương
+thức khởi tạo trong cùng một lớp với các danh sách tham số khác nhau 
+(số lượng hoặc kiểu dữ liệu của tham số). Điều này giúp bạn định nghĩa nhiều cách tạo đối
+tượng khác nhau.
+2. Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of 
+arguments for dvd. Compared to an array parameter. What do you prefer in this case?
+Sử dụng varargs do:
+Linh hoạt: Có thể truyền không, một hoặc nhiều đối tượng DVD trực tiếp mà không cần tạo mảng.
+Dễ sử dụng: Cách gọi rõ ràng và gọn gàng hơn, vì các đối số được truyền trực tiếp mà không cần
+cấu trúc mảng
