@@ -1,263 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7e0584a6-c293-4eca-8064-4aa36ebc939a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/Aims.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/exception/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/exception/LimitExceededException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/exception/MediaNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/exception/PlayerException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/CompactDisc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/DigitalVideoDisc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Disc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Media$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Media$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Media.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByCostTitle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByTitleCost.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/MediaTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/MediaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Playable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Track.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/adda.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/controller/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/controller/CartController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/controller/ItemController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/controller/ItemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/controller/ViewStoreController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/controller/ViewStoreController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/store/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/store/TestViewCartScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/store/TestViewStoreScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/store/TestViewStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/view/Cart.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/view/Item.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/customer/view/Store.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddBookToStoreScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddBookToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddCompactDiscToStoreScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddCompactDiscToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddDigitalVideoDiscToStoreScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddDigitalVideoDiscToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddItemToStoreScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddItemToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/MediaStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/MediaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/StoreManagerScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/StoreManagerScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/StoreManagerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/screen/manager/StoreManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/store/Store.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/store/StoreTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/aims/store/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/test/cart/CartTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/test/cart/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/test/cart/TestStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/test/cart/TestStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/test/disc/TestPassingParameter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AimsProject/src/hust/soict/hedspi/test/disc/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/javafx/Painter.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/javafx/Painter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/javafx/PainterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/swing/AWTAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/swing/NumberGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/swing/SwingAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUIProject/src/hust/soict/hedspi/swing/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex2_2_1_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex2_2_2_FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex2_2_3_HelloNameDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex2_2_4_ShowTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex2_2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex2_2_6_TheFirstDegreeEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex6_1_ChoosingOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex6_2_InputFromKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex6_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex6_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/Ex6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab01/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Design/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Design/Class Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/ReadingAssignment/ReadingAssignment.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/ReadingAssignment/ReadingAssignment1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Requirement/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Requirement/Use Case Diagram 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/Requirement/Use Case Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab02/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/Design/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/Design/Class Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/ReadingAssignment/ReadingAssignment.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/Requirement/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/Requirement/Use Case Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/MediaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/aims/store/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/test/cart/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/test/cart/TestStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/AimsProject/src/hust/soict/hedspi/test/disc/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex2_2_1_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex2_2_2_FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex2_2_3_HelloNameDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex2_2_4_ShowTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex2_2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex2_2_6_TheFirstDegreeEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex6_1_ChoosingOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex6_2_InputFromKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex6_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex6_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/Ex6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab01/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Design/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Design/Class Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/ReadingAssignment/ReadingAssignment.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/ReadingAssignment/ReadingAssignment1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Requirement/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Requirement/Use Case Diagram 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/Requirement/Use Case Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/Lab02/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/src/hust/soict/hedspi/garbage/ConcatenationInLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/src/hust/soict/hedspi/garbage/GarbageCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/src/hust/soict/hedspi/garbage/NoGarbage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab03/OtherProjects/src/hust/soict/hedspi/garbage/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/Design/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/Design/Class Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/ReadingAssignment/ReadingAssignment.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/Requirement/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/Requirement/UseCase Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/cart/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/Disc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/MediaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/media/Track.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddBookToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddCompactDiscToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddDigitalVideoDiscToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/AddItemToStoreScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/MediaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/StoreManagerScreen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/screen/manager/StoreManagerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/store/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/aims/store/StoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/test/cart/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/test/cart/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/test/cart/TestStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/test/disc/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/AimsProject/src/hust/soict/hedspi/test/disc/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/Painter.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/javafx/Painter.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/javafx/Painter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/javafx/PainterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/swing/AWTAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/swing/NumberGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/swing/SwingAccumulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/GUIProject/src/hust/soict/hedspi/swing/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex2_2_1_HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex2_2_2_FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex2_2_3_HelloNameDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex2_2_4_ShowTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex2_2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex2_2_6_TheFirstDegreeEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex6_1_ChoosingOption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex6_2_InputFromKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex6_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex6_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/Ex6_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab01/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Design/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Design/Class Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/ReadingAssignment/ReadingAssignment.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/ReadingAssignment/ReadingAssignment1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Requirement/An Internet Media Store.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Requirement/Use Case Diagram 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/Requirement/Use Case Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/Lab02/answers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/src/hust/soict/hedspi/garbage/ConcatenationInLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/src/hust/soict/hedspi/garbage/GarbageCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/src/hust/soict/hedspi/garbage/NoGarbage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/Lab04/OtherProjects/src/hust/soict/hedspi/garbage/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/src/hust/soict/hedspi/garbage/ConcatenationInLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/src/hust/soict/hedspi/garbage/GarbageCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/src/hust/soict/hedspi/garbage/NoGarbage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OtherProjects/src/hust/soict/hedspi/garbage/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "phamquynhanh-17"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/phamquynhanh-17/oop-lab-01",
+    "accountId": "762c7f3c-9bde-4420-97fa-0b3e5e4bf117"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -306,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748609199601</updated>
-      <workItem from="1748609200825" duration="321000" />
+      <workItem from="1748609200825" duration="696000" />
     </task>
     <servers />
   </component>
