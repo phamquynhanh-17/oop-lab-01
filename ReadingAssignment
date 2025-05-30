@@ -1,0 +1,17 @@
+Câu 1: Các ưu điểm của Đa hình là gì?
+
+Đa hình giúp mã nguồn trở nên linh hoạt hơn, dễ dàng thích nghi với các thay đổi.
+Nó hỗ trợ việc mở rộng và bảo trì phần mềm một cách hiệu quả hơn.
+Nhờ đa hình, các đối tượng thuộc các loại khác nhau có thể cùng sử dụng chung một phương thức, đơn giản hóa
+cấu trúc code.
+Câu 2: Kế thừa hỗ trợ Đa hình trong Java như thế nào?
+
+Kế thừa đóng vai trò quan trọng trong việc hiện thực Đa hình: khi một lớp con kế thừa từ lớp cha và sau đó định nghĩa
+lại (ghi đè) các phương thức của lớp cha, chúng ta có thể sử dụng biến kiểu lớp cha để gọi các phương thức đã được ghi 
+đè ở lớp con, tạo nên tính đa hình.
+Câu 3: Phân biệt Đa hình và Kế thừa trong Java?
+
+Kế thừa là một nguyên lý cơ bản cho phép các lớp con tái sử dụng và mở rộng các thuộc tính, phương thức từ lớp cha.
+Đa hình là khả năng cho phép một đối tượng biểu hiện nhiều hình thái khác nhau, tức là có thể thực hiện các hành vi 
+riêng biệt thông qua cùng một phương thức.
+Có thể nói, Kế thừa là tiền đề, là nền tảng cần thiết để Đa hình có thể được áp dụng.
