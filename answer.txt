@@ -1,0 +1,27 @@
+1. So sánh các vùng chứa cấp cao nhất (top-level containers) trong Swing và AWT
+
+Trong AWT, các vùng chứa cấp cao nhất như Frame, Dialog và Panel được coi là 
+"nặng ký" vì chúng phụ thuộc trực tiếp vào các tài nguyên đồ họa gốc của hệ điều hành. 
+Ngược lại, Swing sử dụng JFrame, JDialog và JPanel là các vùng chứa cấp cao nhất.
+Những thành phần Swing này là "nhẹ ký" vì chúng được xây dựng hoàn toàn bằng Java,
+không cần dựa vào mã gốc của hệ thống. Nhờ đó, Swing mang lại giao diện đồng nhất hơn
+trên nhiều hệ điều hành và cho phép linh hoạt hơn trong thiết kế ứng dụng.
+
+2. So sánh tên lớp của các thành phần trong AWT và tên lớp tương ứng trong Swing
+
+Các thành phần trong AWT có tên lớp đơn giản, không có tiền tố đặc biệt nào, 
+ví dụ như Button, Label, TextField. Trong khi đó, các thành phần tương đương trong 
+Swing được phân biệt bằng tiền tố "J", chẳng hạn như JButton, JLabel, JTextField.
+Mặc dù cả hai bộ thành phần đều phục vụ các chức năng tương tự, nhưng các thành
+phần của Swing vượt trội hơn với nhiều tính năng nâng cao, bao gồm khả năng tùy 
+chỉnh hiển thị và hỗ trợ chú giải công cụ.
+
+3. So sánh cơ chế xử lý sự kiện của ứng dụng Swing và AWT
+
+Cả Swing và AWT đều tuân theo cùng một mô hình xử lý sự kiện
+ủy quyền (delegation event model). Điều này có nghĩa là các thành phần sẽ 
+phát sinh sự kiện, và các đối tượng lắng nghe (như ActionListener, MouseListener, v.v.)
+sẽ đảm nhiệm việc xử lý chúng. Tuy nhiên, Swing cung cấp sự linh hoạt vượt trội trong việc
+quản lý sự kiện. Các thành phần của Swing hỗ trợ nhiều loại sự kiện hơn và cho phép sử dụng 
+các tính năng như các lớp bên trong ẩn danh hoặc biểu thức lambda (từ Java 8 trở đi), giúp mã 
+nguồn sạch sẽ và dễ bảo trì hơn đáng kể so với các ứng dụng AWT truyền thống.
